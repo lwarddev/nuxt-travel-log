@@ -10,7 +10,7 @@
         </p>
         <button class="btn btn-accent">
           Sign In With Github
-          <!-- <Icon name="tabler:brand-github" size="24" /> -->
+          <Icon name="tabler:brand-github" size="24" />
         </button>
       </div>
     </div>
