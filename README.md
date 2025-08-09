@@ -21,8 +21,6 @@ Start the development server on `http://localhost:3000`:
 # pnpm
 pnpm dev
 
-
-
 ## Production
 
 Build the application for production:
@@ -31,7 +29,6 @@ Build the application for production:
 
 # pnpm
 pnpm build
-
 
 Locally preview production build:
 
